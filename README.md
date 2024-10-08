@@ -9,7 +9,7 @@
 **Instituição:** FIAP  
 **Disciplina:** Mastering Relational and Non-Relational Databases  
 **Turma:** 2TDSPN / 2TDSS / 2TD-SPV  
-**Data:** October 8, 2024
+
 
 ---
 
