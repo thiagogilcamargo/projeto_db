@@ -42,4 +42,4 @@ As instruções para configuração do ambiente e execução do projeto estão d
 
 1. **Clone o Repositório:**
    ```bash
-   [git clone https://github.com/seu_usuario/nome_do_repositorio.git](https://github.com/thiagogilcamargo/projeto_db/tree/main)
+   [git clone https://github.com/thiagogilcamargo/projeto_db.git](https://github.com/thiagogilcamargo/projeto_db/tree/main)
